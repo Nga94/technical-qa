@@ -1,2 +1,3 @@
-# technical-qa
-Technical Questions and Answers
+# Technical Questions and Answers
+
+# Rules
